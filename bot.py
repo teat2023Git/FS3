@@ -86,7 +86,7 @@ async def start(bot: Client, cmd: Message):
                         InlineKeyboardButton("♻️Movies Group♻️", url="https://t.me/+KepR0amTaxkwZmI1")
                     ],
                     [
-                        InlineKeyboardButton("💋18+ Movie & Webseries💋”, url="https://t.me/+Ps2D3eRmT0BmNzY1")
+                        InlineKeyboardButton("💋18+ Movie & Webseries💋", url="https://t.me/+Ps2D3eRmT0BmNzY1")
                     ]    
                 ]
             )
